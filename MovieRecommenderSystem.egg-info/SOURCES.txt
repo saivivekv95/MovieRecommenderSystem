@@ -1,0 +1,7 @@
+README.md
+setup.py
+MovieRecommenderSystem.egg-info/PKG-INFO
+MovieRecommenderSystem.egg-info/SOURCES.txt
+MovieRecommenderSystem.egg-info/dependency_links.txt
+MovieRecommenderSystem.egg-info/top_level.txt
+src/__init__.py
